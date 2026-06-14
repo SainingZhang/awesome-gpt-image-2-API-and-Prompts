@@ -1054,3 +1054,89 @@ A luxury watch emerges from darkness. Extreme macro shot of ticking gears and mo
 ```
 品牌 KV 海报系列。使用统一提示词框架，针对不同饮料品牌调整视觉情绪色彩：可口可乐 → 热烈红色聚会感；百事可乐 → 年轻蓝色潮流感；雪碧 → 清爽绿色柠檬感。同一结构展现不同品牌 DNA。3 张对比输出。
 ```
+
+---
+### Case 188: Lüks Sneaker Editoryal Izgarası
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065964253505585436)
+
+**Çıktı:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case188/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Louis Vuitton luxury leather sneaker campaign. High-fashion editorial, avant-garde aesthetic. Aspect ratio 3:4.
+
+Materials: Full-grain calf leather, Monogram Embossed Canvas, Polished Gold Hardware.
+Color palette: Cognac Brown, Deep Obsidian, Champagne Gold.
+Lighting: High-contrast Chiaroscuro with soft-box key lighting.
+
+9-cell editorial grid:
+
+Row 1, Heritage:
+- Hero side-profile: sneaker resting on a vintage LV trunk, side-lit to reveal the leather grain texture.
+- Extreme macro close-up: gold-tone "LV" lace aglets and precision stitching detail.
+- Dynamic shot: gold dust particles swirling around the sole as the shoe steps into frame.
+
+Row 2, Innovation:
+- Minimalist: sneaker balanced on top of an abstract, floating glass "V" sculpture.
+- Floating deconstructed view: sole and upper suspended in a void.
+- Sensory: a gloved hand adjusting the tongue, highlighting the softness of the leather.
+
+Row 3, Surrealism:
+- Monochromatic scene in LV Havane brown with liquid silk drapes.
+- Abstract: rubber sole pattern reimagined as a geometric desert landscape.
+- Fusion: sneaker walking on a mirror-still lake reflecting a Parisian sunset skyline.
+```
+
+---
+### Case 189: Kablosuz Kulaklık Lifestyle Reklamı
+
+**Source**: [@iamaiistudio](https://x.com/iamaiistudio/status/2065753093283991651)
+
+**Çıktı:**
+
+| Output |
+| :----: |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="../images/ad-creative_case189/output.jpg" width="300" alt="GPT-Image-2 Prompt Example"></a> |
+
+**Prompt:**
+
+```
+Design a 9:16 vertical product infographic for Bolt True Wireless Earbuds with a high-end lifestyle ad feel.
+Composition & Framing
+Full-body shot of a young woman whose face, skin tone, and hairstyle match the reference photo exactly
+Slightly low camera angle close to the subject, fashion campaign style, for depth and visual presence
+She's seated casually on the floor, one knee up, one leg stretched toward the camera
+Foreground (Product)
+She holds an open Bolt earbud charging case out toward the viewer
+One earbud is visible inside the case, the other is in her ear
+The case is glossy white with "BOLT" branding
+Slight macro bokeh blur on the hand and case for cinematic depth
+Outfit & Style
+Modern athleisure streetwear: off-white or neutral lightweight jacket, crop top or sports bra, soft pink joggers, textured white sneakers
+Expression: confident and relaxed, subtle smile
+Pose feels natural and lifestyle-driven, not posed
+Background
+Soft gray gradient studio background
+Rainbow prism lens flares and subtle light leaks
+Floating blurred earbuds and case in background
+Studio floor texture visible underfoot
+Lighting
+Diffused commercial studio lighting emphasizing skin texture, the glossy case, and fabric detail
+Soft rim light to separate the subject from the background
+Text Overlays (modern sans-serif, white)
+Top Center: "BOLT" in large bold text, partially behind the subject
+Top Right: Bolt Earbuds / True Wireless
+Mid Left: Powerful sound. / Effortless vibes. / Engineered for every beat of your day.
+Mid Right: 30 hours of playtime / IPX5 water resistant
+Bottom Right: 1 year warranty
+Quality
+8K ultra-realistic commercial photography
+Sharp on face and earbuds, gentle depth blur on foreground and background
+Clean Apple/Nike premium ad aesthetic, strong negative space
+```
