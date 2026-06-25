@@ -17,7 +17,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case2/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case2/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -28,7 +28,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case3/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case3/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -39,7 +39,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case4/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case4/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -58,7 +58,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case5/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case5/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -76,7 +76,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case7/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case7/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -87,7 +87,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case8/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case8/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -98,7 +98,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case9/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case9/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -110,7 +110,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case10/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case10/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -125,7 +125,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case11/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case11/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -137,7 +137,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case12/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case12/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -149,7 +149,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case13/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case13/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -161,7 +161,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case14/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case14/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -173,7 +173,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case15/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case15/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -185,7 +185,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case24/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case24/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -203,7 +203,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case32/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case32/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -215,7 +215,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case33/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case33/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -227,7 +227,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case34/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case34/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -239,7 +239,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case35/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case35/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -251,7 +251,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case36/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case36/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -263,7 +263,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case38/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case38/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -275,7 +275,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case39/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case39/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -305,7 +305,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case40/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case40/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -317,7 +317,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case41/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case41/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -330,7 +330,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case42/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case42/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -354,7 +354,7 @@ Generate a high-quality vertical science popularization encyclopedia image based
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case45/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case45/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -366,7 +366,7 @@ Create a Science fiction movie poster
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case46/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case46/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -378,7 +378,7 @@ Create a Science fiction movie poster
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case47/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case47/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -390,7 +390,7 @@ Create a Science fiction movie poster
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case48/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case48/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -412,7 +412,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case49/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case49/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -424,7 +424,7 @@ In the lower-left corner, elegant typography reads “SILICON VALLEY 2026” wit
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case50/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case50/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -520,7 +520,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case51/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case51/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -532,7 +532,7 @@ AI 必须依据【主题】自动推导最适合的视觉系统:
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case57/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case57/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -547,7 +547,7 @@ Old money Hamptons editorial, tall blonde woman late 20s, serene elegant express
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case58/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case58/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -559,7 +559,7 @@ Descomposición detallada de una cámara de la marca Sony modelo A7 indicando to
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case59/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case59/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -576,7 +576,7 @@ Generate somthing super complex and info dense...
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case54/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case54/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -606,7 +606,7 @@ Generate somthing super complex and info dense...
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case55/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case55/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -618,7 +618,7 @@ Generate somthing super complex and info dense...
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case56/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case56/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -705,7 +705,7 @@ AI 必须依据【主题】自动决定最合适的:
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -717,7 +717,7 @@ A full-body outdoor shot captures a young Caucasian woman, possibly in her late 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case62/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case62/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -743,7 +743,7 @@ Commercial product photography, ultra-detailed, 8K.
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -757,7 +757,7 @@ Online 360° Panorama Viewer VR
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case82/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case82/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -773,7 +773,7 @@ Two children in calm conversation,soft connection forming.
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case85/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case85/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -821,7 +821,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case87/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case87/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -833,7 +833,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case89/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case89/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -847,7 +847,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case90/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case90/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -861,7 +861,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case103/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case103/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -875,7 +875,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case104/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case104/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -887,7 +887,7 @@ Fabric & Craft: The main fabric is real zhijin jin (woven gold brocade) with pal
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case105/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case105/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -899,7 +899,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case106/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case106/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -914,7 +914,7 @@ generate an image of a racing car poster with its spec and pricing
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case70/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case70/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -937,7 +937,7 @@ Style should feel modern, minimal, elite, bold, high fashion sports campaign, lu
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case71/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case71/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -958,7 +958,7 @@ Composition should feel premium, trendy, clean, commercial, youthful, modern fas
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case72/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case72/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -971,7 +971,7 @@ Create an epic poster showcasing the most iconic moments of [Insert Name]'s care
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case73/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case73/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -984,7 +984,7 @@ Avant-garde sports fashion advertisement, oversized basketball posed like a monu
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case74/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case74/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -997,7 +997,7 @@ Avant-garde sports fashion advertisement, oversized tennis racket positioned lik
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case60/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1015,7 +1015,7 @@ Establecer la relación de aspecto en 3:4.
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case76/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case76/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1029,7 +1029,7 @@ Create a premium food preparation poster for
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case77/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case77/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1044,7 +1044,7 @@ Style should feel premium, modern, cinematic, clean composition, sharp focus, ul
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case78/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case78/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1057,7 +1057,7 @@ A high-fashion surrealist poster for Rolex. A deep emerald green minimalist stud
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case79/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case79/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1070,7 +1070,7 @@ symmetrical design featuring two elegant blue peacocks with detailed feather pat
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case80/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case80/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1088,7 +1088,7 @@ Camera: 85mm lens, shallow depth of field, 8K, ultra-detailed, photorealistic.
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case81/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case81/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1100,7 +1100,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case110/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case110/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1146,7 +1146,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case111/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case111/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1198,7 +1198,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case119/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case119/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1210,7 +1210,7 @@ Avant-garde fashion advertisement, oversized guitar positioned like sculpture, a
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case120/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case120/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1222,7 +1222,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case121/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case121/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1234,7 +1234,7 @@ A highly detailed vertical Taoist esoteric infographic poster in the style of an
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case122/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case122/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1246,7 +1246,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case123/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case123/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1258,7 +1258,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case124/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case124/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1270,7 +1270,7 @@ Create a vintage editorial poster on aged rice paper celebrating {argument name=
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case125/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case125/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1292,7 +1292,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case126/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case126/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1304,7 +1304,7 @@ Overall design should feel premium, feminine, mystical, and collectible, like a 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case127/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case127/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1316,7 +1316,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case128/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case128/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1328,7 +1328,7 @@ Using REFERENCE_0 and REFERENCE_1, create a clean ethnographic archive plate foc
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case129/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case129/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1340,7 +1340,7 @@ Create a vintage illustrated travel poster in traditional Chinese for {argument 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case130/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case130/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1379,7 +1379,7 @@ no cluttered backgrounds
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case132/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case132/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1391,7 +1391,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case133/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case133/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1403,7 +1403,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case134/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case134/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1415,7 +1415,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case135/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case135/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1427,7 +1427,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case136/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case136/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1439,7 +1439,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case137/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case137/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1451,7 +1451,7 @@ Using the provided reference photo, recreate the same museum facade and frontal 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case138/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case138/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1463,7 +1463,7 @@ A {argument name="painting style" default="baroque oil painting"} comes to life 
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case139/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case139/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1494,7 +1494,7 @@ Generate image using uploaded image as reference
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case140/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case140/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1506,7 +1506,7 @@ Using the provided reference image, transform the top-down RPG town map into a p
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case141/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case141/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1518,7 +1518,7 @@ A full-body anime girl character design on a plain white background, centered an
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case142/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case142/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1530,7 +1530,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case161/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case161/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1542,7 +1542,7 @@ A highly detailed anime-style urban fantasy illustration set at a busy Tokyo-sty
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case162/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case162/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1554,7 +1554,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/ecommerce_case163/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1566,7 +1566,7 @@ Create a soft editorial lifestyle poster for {argument name="event date" default
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case164/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case164/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1578,7 +1578,7 @@ A dreamy anime-style full-body illustration of a fashionable young woman standin
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case165/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case165/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1590,7 +1590,7 @@ A cinematic wide aerial view of a tropical coastal city at sunset during a viole
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case168/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case168/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1634,7 +1634,7 @@ Aspect ratio: 1:1 (square collage)
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case169/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case169/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1658,7 +1658,7 @@ top-down satellite perspective, NASA Earth observation style, hyper-detailed tex
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case170/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1689,7 +1689,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case171/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case171/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1728,7 +1728,7 @@ Ultra-realistic liquid detail, sharp reflections, premium commercial photography
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case172/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case172/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1753,7 +1753,7 @@ Style: luxury fashion editorial, Vogue, Harper’s Bazaar, monochrome aesthetic,
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case173/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case173/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1765,7 +1765,7 @@ Use the character in image 1 as the main subject. Create a vertical poster ad in
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case174/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case174/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1778,7 +1778,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case175/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case175/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1790,7 +1790,7 @@ Create a cinematic 3:4 vertical poster of New York City that feels truly epic an
 
 | 输出效果 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case176/output.jpg" width="300" alt="输出图像"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case176/output.jpg" width="300" alt="输出图像"></a> |
 
 **提示词：**
 
@@ -1803,7 +1803,7 @@ infográfico ASCII DENGUE
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case184/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1818,7 +1818,7 @@ GPT Image 2 + Kling = 🔥 This was done for Tokyo.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case185/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1831,7 +1831,7 @@ A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natur
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case186/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1882,7 +1882,7 @@ Output: One high-detail declassified dossier poster as a single finished image.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case187/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1932,7 +1932,7 @@ Ultra-realistic, 8K food photography, commercial advertising, sharp focus, drama
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case188/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -1971,7 +1971,7 @@ elegant serif + modern script combination
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case189/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3409,7 +3409,7 @@ repetitive placements
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case250/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Hand-Torn Editorial Collage"></a> |
 
 **Prompt:**
 
@@ -3423,7 +3423,7 @@ Transform the attached image into a collage artwork. Make it appear as if hand-t
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case251/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Glowing Sailboat Night Illustration"></a> |
 
 **Prompt:**
 
@@ -3437,7 +3437,7 @@ A luminous sailboat, outlined in glowing golden light, floats serenely on dark, 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case252/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Istanbul Line-Art Travel Poster"></a> |
 
 **Prompt:**
 
@@ -3541,7 +3541,7 @@ Museum-quality graphic design composition
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case253/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Dark Western Outlaw Poster"></a> |
 
 **Prompt:**
 
@@ -3563,7 +3563,7 @@ Museum-quality graphic design composition
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case254/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Anime Streetwear Mascot Poster"></a> |
 
 **Prompt:**
 
@@ -3577,7 +3577,7 @@ Stylized anime streetwear brand poster of a fast-food mascot character, full-bod
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case255/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Wildlife Infographic Reference Poster"></a> |
 
 **Prompt:**
 
@@ -3620,7 +3620,7 @@ Ultra-realistic, 8K, cinematic infographic masterpiece, insanely detailed, premi
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case256/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Ancient Civilization Miniature Diorama"></a> |
 
 **Prompt:**
 
@@ -3636,7 +3636,7 @@ Soft cinematic lighting with warm natural sunlight from a nearby window, shallow
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case257/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Fashion Collage Poster"></a> |
 
 **Prompt:**
 
@@ -3650,7 +3650,7 @@ Cinematic vertical collage featuring a Japanese woman in elegant fashion capture
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case258/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Bangkok Swiss Typography Poster"></a> |
 
 **Prompt:**
 
@@ -3776,7 +3776,7 @@ Ultra-detailed 8K vector-style rendering, ultra sharp print-ready quality, high-
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case259/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Miniature Travel World Poster"></a> |
 
 **Prompt:**
 
@@ -3790,7 +3790,7 @@ A cinematic hyper-detailed miniature travel diorama resting inside an open human
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case260/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Japanese Graffiti Portrait"></a> |
 
 **Prompt:**
 
@@ -3804,7 +3804,7 @@ Design a high-detail portrait poster in a bold Japanese graffiti-inspired art st
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case261/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Playlist Mood Album Cover"></a> |
 
 **Prompt:**
 
@@ -3818,7 +3818,7 @@ Create an album cover inspired by this playlist: [playlist], translating its moo
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case262/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Play-Doh City Editorial"></a> |
 
 **Prompt:**
 
@@ -3832,7 +3832,7 @@ Create an ultra-charming 3:4 editorial illustration of a five-year-old child sit
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case263/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Liquid Art Poster"></a> |
 
 **Prompt:**
 
@@ -3846,7 +3846,7 @@ A mesmerizing and explosively colorful vertical poster featuring giant 3D liquid
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case264/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Isometric Travel Poster"></a> |
 
 **Prompt:**
 
@@ -3860,7 +3860,7 @@ Design a vertical retro mid-century travel poster of [CITY NAME] showcasing [LAN
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case265/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Travel Postage Stamp"></a> |
 
 **Prompt:**
 
@@ -3874,7 +3874,7 @@ Vintage travel postage stamp design featuring [CITY / COUNTRY], ultra-detailed i
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case266/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Paper Collage Set"></a> |
 
 **Prompt:**
 
@@ -3888,7 +3888,7 @@ Aesthetic vintage paper collage portrait of a stylish woman taking a mirror self
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case267/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Cubist Kawaii Vector Portrait"></a> |
 
 **Prompt:**
 
@@ -3902,7 +3902,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case268/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Trash Polka Headphones Portrait"></a> |
 
 **Prompt:**
 
@@ -3916,7 +3916,7 @@ Create a cute neo-expressionist cubist minimal vector portrait illustration, Pic
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case269/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - 3D Typography Travel Poster"></a> |
 
 **Prompt:**
 
@@ -3929,7 +3929,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case270/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3942,7 +3942,7 @@ Create a 3:2 premium 3D typography-based travel poster for [CITY], using luxury 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case271/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3961,7 +3961,7 @@ Minimal shading, thin crosshatching, clean line art, monochrome aesthetic, white
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case272/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -3996,7 +3996,7 @@ dreamy fantasy girl, celestial goddess, galaxy dress, holographic starlight, sof
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case273/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4013,7 +4013,7 @@ Modern concept art meets fashion illustration, dynamic ink strokes, expressive l
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-API-and-Prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case274/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4065,7 +4065,7 @@ Overall aesthetic: warm, feminine, luxurious, ultra detailed, realistic photogra
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case275/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4088,7 +4088,7 @@ COLOR PALETTE: soft ocean blue dusty aqua muted sand beige faded coral warm crea
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case276/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4127,7 +4127,7 @@ Atmosphere: raw industrial power, signal yellow burning against matte black, ste
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case277/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4141,7 +4141,7 @@ Scene Variations:
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case278/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4159,7 +4159,7 @@ Bottom center has a palm tree icon with text 'MOROCCO' and small decorative moti
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case279/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4266,7 +4266,7 @@ museum poster quality.
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case280/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4363,7 +4363,7 @@ Creator: @hermes_agent_kr on Threads
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case281/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4433,7 +4433,7 @@ S M T W T F S
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case282/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4490,7 +4490,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case283/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4512,7 +4512,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case284/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4538,7 +4538,7 @@ GPT Image 2提示词分享👇
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case285/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4550,7 +4550,7 @@ Create a premium 9:16 hyper-realistic travel-poster of [COUNTRY NAME] in the sam
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case286/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4562,7 +4562,7 @@ Vintage monochrome city travel poster illustration, detailed urban sketch aesthe
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case287/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4574,7 +4574,7 @@ Create a sophisticated flat-vector editorial pattern illustration of [Melbourne]
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case288/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4586,7 +4586,7 @@ Create a 16:9 character concept sheet for a celestial voyager in an epic cinemat
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case289/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4601,7 +4601,7 @@ Hero portrait — Chad isolated on clean white. No background. Pixar 3D man, lat
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case290/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4613,7 +4613,7 @@ Vintage mixed-media travel collage poster, portrait orientation, themed around [
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case291/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4625,7 +4625,7 @@ Create an ultra-premium editorial travel infographic poster about FRANCE in a cl
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case292/output.jpg" width="300" alt="Output image"></a> |
 
 **Prompt:**
 
@@ -4639,7 +4639,7 @@ Create a single image storyboard with 9 cinematic frames arranged in a  3×3 gri
 
 | 输出 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="输出图片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case293/output.jpg" width="300" alt="输出图片"></a> |
 
 **Prompt：**
 
@@ -4652,7 +4652,7 @@ Authentic 1960s American advertising poster for [BREW], vintage mid-century comm
 
 | 输出 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="输出图片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case294/output.jpg" width="300" alt="输出图片"></a> |
 
 **Prompt：**
 
@@ -4665,7 +4665,7 @@ A premium director’s pitch presentation board for a high-budget cinematic prod
 
 | 输出 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="输出图片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case295/output.jpg" width="300" alt="输出图片"></a> |
 
 **Prompt：**
 
@@ -4735,7 +4735,7 @@ Aspect ratio 4:5 or 9:16
 
 | 输出 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="输出图片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case296/output.jpg" width="300" alt="输出图片"></a> |
 
 **Prompt：**
 
@@ -4748,7 +4748,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | 输出 |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="输出图片"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case297/output.jpg" width="300" alt="输出图片"></a> |
 
 **Prompt：**
 
@@ -4762,7 +4762,7 @@ INPUT: [DOMAIN OR CATEGORY]  SYSTEM: Generate a 2×2 luxury poster series transl
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case298/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Football Player Dynamic Poster"></a> |
 
 **Prompt:**
 
@@ -4775,7 +4775,7 @@ A dynamic mixed-media football poster featuring James Rodríguez in Colombia’s
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case299/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Travel Food Advertisement Poster"></a> |
 
 **Prompt:**
 
@@ -4788,7 +4788,7 @@ Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vert
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case300/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Vintage Watercolor Travel Poster"></a> |
 
 **Prompt:**
 
@@ -4802,7 +4802,7 @@ Scene variations: • London  rainy streets, red double-decker bus, black taxi, 
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case301/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Retro Cafe Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -4815,7 +4815,7 @@ Whimsical retro cafe scrapbook poster, dreamy pistachio rose latte aesthetic, la
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case302/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Blueberry Lavender Soda Scrapbook Poster"></a> |
 
 **Prompt:**
 
@@ -4828,7 +4828,7 @@ Vintage-inspired blueberry lavender soda scrapbook poster, dreamy artisanal cafe
 
 | Output |
 | :----: |
-| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
+| <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=awesome-gpt-image-2-prompts" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/SainingZhang/awesome-gpt-image-2-API-and-Prompts/main/images/poster_case303/output.jpg" width="300" alt="GPT-Image-2 Prompt Example - Scientific Concept Anchor Poster"></a> |
 
 **Prompt:**
 
